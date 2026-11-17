@@ -1,0 +1,4 @@
+# CI-tested Python 3.11/3.12 model environment
+numpy>=1.26,<3
+pandas>=2.1,<3
+scikit-learn>=1.4,<2
