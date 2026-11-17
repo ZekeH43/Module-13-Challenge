@@ -10,3 +10,6 @@ venv/
 .env.*
 !.env.example
 .DS_Store
+
+# Generated model summary reports
+reports/latest.json
